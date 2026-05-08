@@ -1,0 +1,5 @@
+print("Hello")
+print("My name is toko")
+print("I am from class 5")
+print("Section A")
+print("USN RVUN@$SCS089")
